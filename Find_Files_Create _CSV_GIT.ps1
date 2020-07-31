@@ -51,3 +51,4 @@ Remove-Item "$OutputFolder_File.csv"
 
 write-host
 Write-host "added line"
+write-host "added a second line to the end"
